@@ -16,7 +16,14 @@
           </mappings>
         </serverdata>
       </paths>
-      <paths name="ota">
+      <paths name="135:8010">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="147:8001">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />

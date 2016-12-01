@@ -1,5 +1,6 @@
 /vendor*
-.env
+/storage*
+/tests
 .DS_Store
 *.swp
 .php_cs.cache
